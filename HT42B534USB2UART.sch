@@ -362,15 +362,15 @@ $EndComp
 $Comp
 L power:VDDA #PWR0115
 U 1 1 5FECA433
-P 4250 3250
-F 0 "#PWR0115" H 4250 3100 50  0001 C CNN
-F 1 "VDDA" V 4265 3378 50  0000 L CNN
-F 2 "" H 4250 3250 50  0001 C CNN
-F 3 "" H 4250 3250 50  0001 C CNN
-	1    4250 3250
+P 4250 3050
+F 0 "#PWR0115" H 4250 2900 50  0001 C CNN
+F 1 "VDDA" V 4265 3178 50  0000 L CNN
+F 2 "" H 4250 3050 50  0001 C CNN
+F 3 "" H 4250 3050 50  0001 C CNN
+	1    4250 3050
 	0    -1   -1   0   
 $EndComp
-Text Label 4150 3050 2    50   ~ 0
+Text Label 4150 3150 2    50   ~ 0
 TX
 Text Label 4150 2950 2    50   ~ 0
 RX
@@ -440,14 +440,14 @@ F 3 "" H 2650 2600 50  0001 C CNN
 	1    2650 2600
 	1    0    0    -1  
 $EndComp
-Text Label 4250 3150 2    50   ~ 0
+Text Label 4250 3250 2    50   ~ 0
 V33O
 Wire Wire Line
 	4000 2950 4250 2950
 Wire Wire Line
-	4000 3050 4250 3050
-Wire Wire Line
 	4000 3150 4250 3150
+Wire Wire Line
+	4000 3250 4250 3250
 $Comp
 L Connector_Generic:Conn_01x06 J2
 U 1 1 5FEC8B41
