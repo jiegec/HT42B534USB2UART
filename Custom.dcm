@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HT42B534_8SOP
+D USB to UART Bridge IC
+F https://www.holtek.com/documents/10179/116711/HT42B534-xv110.pdf
+$ENDCMP
+#
+$CMP USB_A_DEVICE
+D USB Type A connector
+K connector USB
+F  ~
+$ENDCMP
+#
+#End Doc Library

@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Interface_USB:HT42B534_8SOP U1
+L Custom:HT42B534_8SOP U1
 U 1 1 5FE8F8C2
 P 3250 1900
 F 0 "U1" H 3225 2515 50  0000 C CNN
@@ -82,7 +82,7 @@ $EndComp
 Wire Wire Line
 	1500 1650 1500 1450
 $Comp
-L Connector:USB_A_DEVICE J1
+L Custom:USB_A_DEVICE J1
 U 1 1 5FEA1885
 P 2200 2800
 F 0 "J1" H 2257 3267 50  0000 C CNN
