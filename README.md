@@ -2,6 +2,9 @@
 
 A simple USB to UART board. Designed with KiCad. Manufactured and tested.
 
+![Front](Front.png)
+![Back](Back.png)
+
 ## Bill of Materials
 
 ```csv
