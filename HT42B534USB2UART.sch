@@ -21,6 +21,7 @@ F 0 "U1" H 3225 2515 50  0000 C CNN
 F 1 "HT42B534_8SOP" H 3225 2424 50  0000 C CNN
 F 2 "Package_SO:SOP-8_3.9x4.9mm_P1.27mm" H 2900 2400 50  0001 C CNN
 F 3 "https://www.holtek.com/documents/10179/116711/HT42B534-xv110.pdf" H 2900 2400 50  0001 C CNN
+F 4 "https://item.szlcsc.com/504007.html" H 3250 1900 50  0001 C CNN "Product"
 	1    3250 1900
 	1    0    0    -1  
 $EndComp
@@ -89,6 +90,7 @@ F 0 "J1" H 2257 3267 50  0000 C CNN
 F 1 "USB_A" H 2257 3176 50  0000 C CNN
 F 2 "Connector_USB:USB_A_CNCTech_1001-011-01101_Horizontal" H 2350 2750 50  0001 C CNN
 F 3 " ~" H 2350 2750 50  0001 C CNN
+F 4 "https://item.szlcsc.com/98530.html" H 2200 2800 50  0001 C CNN "Product"
 	1    2200 2800
 	1    0    0    -1  
 $EndComp
