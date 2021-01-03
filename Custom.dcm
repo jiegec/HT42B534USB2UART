@@ -8,7 +8,7 @@ $ENDCMP
 $CMP USB_A_DEVICE
 D USB Type A connector
 K connector USB
-F  ~
+F ~
 $ENDCMP
 #
 #End Doc Library
