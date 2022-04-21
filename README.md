@@ -5,6 +5,14 @@ A simple USB to UART board. Designed with KiCad. Manufactured and tested.
 ![Front](Front.png)
 ![Back](Back.png)
 
+## How to use
+
+1. Plug USB to your PC
+2. Wire VIO to either V33O(3.3V) or VDD(5V)
+3. Connect TX, RX & GND (optionally VIO) to other devices
+
+The voltage of RX/TX should match VIO.
+
 ## Bill of Materials
 
 ```csv
